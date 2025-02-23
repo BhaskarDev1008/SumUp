@@ -28,3 +28,11 @@ This project is a web application that allows users to upload documents (in DOCX
    git clone https://github.com/BhaskarDev1008/SumUp
    cd BhaskarDev1008/SumUp
    py application.py
+
+## Screenshots
+
+Here are some screenshots of the application's user interface:
+
+![Screenshot 370](https://github.com/BhaskarDev1008/SumUp/raw/main/UI/Screenshot%20(370).png)
+![Screenshot 371](https://github.com/BhaskarDev1008/SumUp/raw/main/UI/Screenshot%20(371).png)
+![Screenshot 372](https://github.com/BhaskarDev1008/SumUp/raw/main/UI/Screenshot%20(372).png)
