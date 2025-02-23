@@ -25,5 +25,6 @@ This project is a web application that allows users to upload documents (in DOCX
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/BhaskarDev1008/SumUp
+   cd BhaskarDev1008/SumUp
+   py application.py
