@@ -21,9 +21,9 @@ This project is a web application that allows users to upload documents (in DOCX
 - **JavaScript and jQuery**: For client-side scripting and AJAX requests.
 - **Bootstrap**: For responsive and visually appealing UI design.
 
-## Installation
+## Installation 
 
-1. **Clone the Repository**:
+1. 
    ```bash
    git clone https://github.com/BhaskarDev1008/SumUp
    cd BhaskarDev1008/SumUp
